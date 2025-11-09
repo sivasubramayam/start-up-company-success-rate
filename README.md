@@ -35,7 +35,7 @@ Provide insights and predictive understanding for entrepreneurs & investors
  📊 data              # Raw & processed data files
  📓 notebooks         # Jupyter notebooks for analysis
  📈 reports           # Visualizations & summary findings
- 🧠 models            # ML models (if applicable)
+ 🧠 models            # ML models 
   README.md           # Project overview
 
 🧠 Key Insights (Examples)
