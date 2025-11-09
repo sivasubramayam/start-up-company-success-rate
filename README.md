@@ -31,12 +31,12 @@ Provide insights and predictive understanding for entrepreneurs & investors
 
 📁 Repository Structure
 📦 Startup Success Rate Analysis
-│
-├─ 📊 data/               # Raw & processed data files
-├─ 📓 notebooks/          # Jupyter notebooks for analysis
-├─ 📈 reports/            # Visualizations & summary findings
-├─ 🧠 models/             # ML models (if applicable)
-└─ README.md              # Project overview
+
+ 📊 data              # Raw & processed data files
+ 📓 notebooks         # Jupyter notebooks for analysis
+ 📈 reports           # Visualizations & summary findings
+ 🧠 models            # ML models (if applicable)
+  README.md           # Project overview
 
 🧠 Key Insights (Examples)
 
